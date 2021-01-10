@@ -6,7 +6,7 @@
 # Any suggestions, erros, or anything else please use           #
 # the github page for this.                                     #
 #                                                               #
-# https://github.com/hakutento/ip_lookup/blob/main/ip_lookup.py #
+# https://github.com/hakutento/ip_lookup                        #
 #                                                               #
 #################################################################
 import netifaces as nf   # make sure to run pip install netifaces
