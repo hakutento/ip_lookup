@@ -1,14 +1,14 @@
-#######################################################
-#                                                     #
-# Creator: HakuTento                                  #
-#                                                     #
-# Free for anyone to use. Do not remove this section. #
-# Any suggestions, erros, or anything else please use #
-# the github page for this.                           #
-#                                                     #
-#                                                     #
-#                                                     #
-#######################################################
+#################################################################
+#                                                               #
+# Creator: HakuTento                                            #
+#                                                               #
+# Free for anyone to use. Do not remove this section.           #
+# Any suggestions, erros, or anything else please use           #
+# the github page for this.                                     #
+#                                                               #
+# https://github.com/hakutento/ip_lookup/blob/main/ip_lookup.py #
+#                                                               #
+#################################################################
 import netifaces as nf   # make sure to run pip install netifaces
 from socket import *
 from requests import get # make sure to run pip install requests
